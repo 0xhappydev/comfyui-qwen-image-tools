@@ -259,4 +259,4 @@ See [MULTI_IMAGE_ORDERING.md](MULTI_IMAGE_ORDERING.md) for detailed guide.
 ## License
 
 MIT - See LICENSE file for details.
-AAA
+AAAA
